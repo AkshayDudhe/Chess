@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AkshayDudhe/Chess/static/css/main.574c9be6.css",
+    "main.js": "/AkshayDudhe/Chess/static/js/main.08add858.js",
+    "static/media/bk.svg": "/AkshayDudhe/Chess/static/media/bk.f0034328740f7e74b73ea677ca2bb817.svg",
+    "static/media/wk.svg": "/AkshayDudhe/Chess/static/media/wk.269f4fceca705ca35158b5b43bdb61da.svg",
+    "static/media/bq.svg": "/AkshayDudhe/Chess/static/media/bq.6180956fbca1af386795697eba10c79b.svg",
+    "static/media/wq.svg": "/AkshayDudhe/Chess/static/media/wq.a2c39672206f2749235f57e429d2975f.svg",
+    "static/media/bp.svg": "/AkshayDudhe/Chess/static/media/bp.b01707914df3d5baecd887e465e4ffbe.svg",
+    "static/media/bn.svg": "/AkshayDudhe/Chess/static/media/bn.48fb81572959077ff76da017a5aac228.svg",
+    "static/media/wn.svg": "/AkshayDudhe/Chess/static/media/wn.c98a9d86f7159f51ef0115deadb779ac.svg",
+    "static/media/bb.svg": "/AkshayDudhe/Chess/static/media/bb.637718a2085136ae69a0e7d7de6ac0e3.svg",
+    "static/media/wp.svg": "/AkshayDudhe/Chess/static/media/wp.560f1240aa10a4cd8c2beb866e231158.svg",
+    "static/media/wb.svg": "/AkshayDudhe/Chess/static/media/wb.31673fc0273bdc2ef6eb6c6281c8e553.svg",
+    "static/media/br.svg": "/AkshayDudhe/Chess/static/media/br.d1e05be3972684497bce3423105fa7ac.svg",
+    "static/media/wr.svg": "/AkshayDudhe/Chess/static/media/wr.cf9bf9de45959d34b4ab83a88aad55cf.svg",
+    "index.html": "/AkshayDudhe/Chess/index.html",
+    "static/media/h.svg": "/AkshayDudhe/Chess/static/media/h.7f02f4857d1b4bd74aa370aa3b856d3e.svg",
+    "main.574c9be6.css.map": "/AkshayDudhe/Chess/static/css/main.574c9be6.css.map",
+    "main.08add858.js.map": "/AkshayDudhe/Chess/static/js/main.08add858.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.574c9be6.css",
+    "static/js/main.08add858.js"
+  ]
+}
